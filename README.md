@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 [<img align="left" alt="fullstack_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasim-akram-biswas-753b77204/)
 [<img align="left" alt="fullstack_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:wasimakram15185@gmail.com)
 [<img align="left" alt="fullstack_developer | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />](https://my.indeed.com/p/wasima-9gx00ln/profile)
+ <br/>
  
- 
- ## 📊 My Github Stats
+## 📊 My Github Stats
 
   <br/>
     <a href="https://github.com/wasim15185/github-readme-stats"><img alt="wasim akram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wasim15185&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
