@@ -31,3 +31,20 @@ Here are some ideas to get you started:
 [<img align="left" alt="fullstack_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:wasimakram15185@gmail.com)
 [<img align="left" alt="fullstack_developer | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />](https://my.indeed.com/p/wasima-9gx00ln/profile)
  
+ 
+ ## 📊 My Github Stats
+
+  <br/>
+    <a href="https://github.com/wasim15185/github-readme-stats"><img alt="wasim akram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wasim15185&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/wasim15185/github-readme-stats"><img alt="wasim's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wasim15185&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/wasim15185/github-readme-activity-graph"><img alt="Wasim akram's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wasim15185&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
