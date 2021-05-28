@@ -22,8 +22,9 @@ Here are some ideas to get you started:
  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/>
  <img style="margin-left:2px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="50" height="50"/>
  <img style="margin-left:2px" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="50" height="50"/>
+ <img style="margin-left:3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="50" height="50" alt="kotlin"/>
  <img style="margin-left:2px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="50" height="50"/>
-  <img style="margin-left:3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="50" height="50"/>
+  
  <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
  
 </div>
