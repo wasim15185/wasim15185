@@ -27,7 +27,8 @@ Here are some ideas to get you started:
   
  <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
   <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50"/>
-
+<img style="margin-left:3px" src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" width="50" height="50"/>
+ 
 </div>
 
 ### Reach at me:
