@@ -32,7 +32,6 @@ Here are some ideas to get you started:
 ### Reach at me:
 [<img align="left" alt="fullstack_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/wasim-akram-biswas-753b77204/)
 [<img align="left" alt="fullstack_developer | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />](mailto:wasimakram15185@gmail.com)
-[<img align="left" alt="fullstack_developer | Indeed" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/indeed.svg" />](https://my.indeed.com/p/wasima-9gx00ln/profile)
  <br/>
  
 ## 📊 My Github Stats
