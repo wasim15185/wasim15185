@@ -26,7 +26,8 @@ Here are some ideas to get you started:
  <img style="margin-left:2px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="50" height="50"/>
   
  <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
- 
+  <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50"/>
+
 </div>
 
 ### Reach at me:
