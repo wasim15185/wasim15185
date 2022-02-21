@@ -20,14 +20,17 @@ Here are some ideas to get you started:
  <img style="margin-left:2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="50" height="50"/>
  <img style="margin-left:2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" width="50" height="50"/>
  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" width="50" height="50"/>
- <img style="margin-left:2px" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg" width="50" height="50"/>
+ <img style="margin-left:2px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" width="50" height="50"/>
  <img style="margin-left:2px" src="https://cdn.worldvectorlogo.com/logos/java.svg" width="50" height="50"/>
  <img style="margin-left:3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" width="50" height="50" alt="kotlin"/>
+ <img style="margin-left:3px" src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" width="50" height="50" alt="Android-icon"/>
+
  <img style="margin-left:2px" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg" width="50" height="50"/>
   
- <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
   <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/c.svg" width="50" height="50"/>
-<img style="margin-left:3px" src="https://avatars.githubusercontent.com/u/6955922?s=200&v=4" width="50" height="50"/>
+ <img style="margin-left:3px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/opengl/opengl.png" alt="open-gl" width="50" height="50"/> 
+ 
+  <img style="margin-left:3px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="50" height="50"/>
  
 </div>
 
