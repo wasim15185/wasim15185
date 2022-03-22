@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Android OpenGL ES
-- 🌱 I’m currently learning Android
+- 🌱 I’m currently learning Android Jetpack Compose
 - 👯 I’m looking to collaborate on Ant One to learn and increase my skill
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am always hungry for learn new technologies
